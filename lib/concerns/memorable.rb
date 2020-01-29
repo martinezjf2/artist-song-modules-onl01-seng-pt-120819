@@ -11,7 +11,6 @@ module Memorable
     self.all.count
     end
     
-
   end
 
   module InstanceMethods #InstanceMethods are include
