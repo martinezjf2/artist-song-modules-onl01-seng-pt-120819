@@ -8,8 +8,7 @@ class Artist
   # include Memorable::InstanceMethods
 
 
-  attr_accessor :namelearn
-  
+  attr_accessor :name
   attr_reader :songs
 
   @@artists = []
